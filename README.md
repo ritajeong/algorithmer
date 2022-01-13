@@ -21,3 +21,6 @@
 
   [boj1920수찾기](https://github.com/ritajeong/algorithmer/blob/master/boj1920%EC%88%98%EC%B0%BE%EA%B8%B0.java)
 
+  [pro신규아이디추천](https://github.com/ritajeong/algorithmer/blob/master/pro%EC%8B%A0%EA%B7%9C%EC%95%84%EC%9D%B4%EB%94%94%EC%B6%94%EC%B2%9C.java)  
+  
+  [boj2941크로아티아](https://github.com/ritajeong/algorithmer/blob/master/boj2941%ED%81%AC%EB%A1%9C%EC%95%84%ED%8B%B0%EC%95%84.java)
