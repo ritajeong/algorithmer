@@ -1,4 +1,4 @@
- 
+ //11636KB	80ms
 package Algorithmer;
 
 import java.io.BufferedReader;
